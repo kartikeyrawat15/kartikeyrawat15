@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Kartikeyan Singh Rawat  
 
-<!--
-**kartikeyrawat15/kartikeyrawat15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst & AI Enthusiast**  
+I enjoy solving business problems through **data storytelling, analytics, and machine learning**.  
+Currently exploring **Generative AI** and **data-driven insights** using Python, SQL, Power BI & Scikit-learn.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 What I Do
+- 📊 Data Cleaning, EDA & Visualization  
+- 🤖 Predictive Modeling (Logistic Regression, Tree-based models)  
+- 🧠 Real-world ML + Analytics projects  
+- ⚙️ Exploring Gen AI tools and workflow automation  
+
+---
+
+### 🚀 Featured Project
+🔗 [**Retail Return Prediction**](https://github.com/kartikeyrawat15/retail-return-prediction)  
+> End-to-end e-commerce analytics + machine learning project predicting product returns with actionable insights.
+
+---
+
+### 🛠️ Tech Stack
+Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | SQL | Power BI | Git | VS Code  
+
+---
+
+### 📫 Connect with Me
+📧 **kartikeyrawat15@gmail.com**  
+💼 [LinkedIn](https://linkedin.com/in/kartikeyrawat15)  
+🐙 [GitHub](https://github.com/kartikeyrawat15)
