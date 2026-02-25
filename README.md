@@ -26,5 +26,5 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | SQL | Power BI |
 ---
 
 ### 📫 Connect with Me
-📧 **kartikeyrawat15@gmail.com**  
+📧 **kartikeyrawat151002@gmail.com**  
 🐙 [GitHub](https://github.com/kartikeyrawat15)
